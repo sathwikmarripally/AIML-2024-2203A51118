@@ -1,6 +1,8 @@
 # AIML-2024-2203A51118
-<b>[LAB-01](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_01_Python_Libraries_and_Packages.ipynb)<b>: Python Libraries and Packages<br>
-<b>[LAB-02] <b>:  Implement Breadth First, Depth First and A* Search
+<b>[LAB-01](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_01_Python_Libraries_and_Packages.ipynb)<b>
+: Python Libraries and Packages<br>
+<b>[LAB-02](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_02_%20Implement_Breadth_First_Depth_First.ipynb)<b>
+:  Implement Breadth First, Depth First and A* Search
 Algorithms<br>
 <b>[LAB-03] <b>: Implement the AI Game Strategy<br>
 <b>[LAB-04] <b>: Implement Linear Regression Model Using US Housing Data<br>
