@@ -9,4 +9,4 @@ Algorithms<br>
 <b>[LAB-05](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_05_logisticRegressionModel.ipynb) <b>:  Implement Logistic Regression Model Using Titanic Ship Dataset<br>
 <b>[LAB-06](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_06_Implement_the_K_Nearest_Neighbor_Classification.ipynb) <b>:  Implement the K Nearest Neighbor Classification using Classi-
 fied Manufacturing Dataset<br>
-<b>[LAB-07] <b>: Implement Support Vector Machine Classification using Breast Cancer Dataset<br>
+<b>[LAB-07](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_07predictionUsingSupportVectorMachineModel.ipynb) <b>:  Implement Support Vector Machine Classification using Breast Cancer Dataset<br>
