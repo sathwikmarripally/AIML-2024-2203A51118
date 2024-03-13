@@ -1,5 +1,5 @@
 # AIML-2024-2203A51118
-<b>[LAB-01] <b>: Python Libraries and Packages<br>
+<b>[LAB-01](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_01_Python_Libraries_and_Packages.ipynb)<b>: Python Libraries and Packages<br>
 <b>[LAB-02] <b>:  Implement Breadth First, Depth First and A* Search
 Algorithms<br>
 <b>[LAB-03] <b>: Implement the AI Game Strategy<br>
