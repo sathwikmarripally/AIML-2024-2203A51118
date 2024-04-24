@@ -12,3 +12,4 @@ fied Manufacturing Dataset<br>
 <b>[LAB-07](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_07predictionUsingSupportVectorMachineModel.ipynb) <b>:  Implement Support Vector Machine Classification using Breast Cancer Dataset<br>
 <b>[LAB-08](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_08_Decision_tree.ipynb) <b>: Implement Decision tree using car data set.<br>
 <b>[LAB-09](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_09_Random_Forest.ipynb) <b>: Implement Random Forest Using Loan data set.
+<b>[LAB-10](https://github.com/sathwikmarripally/AIML-2024-2203A51118/blob/main/LAB_10_KMeans_Clustering_using_synthetic__data.ipynb) <b>: Implement K Means Clustering Using Synthetic Data.
